@@ -1,3 +1,19 @@
+# React ToDo List
+A simple web app for creating an interactive list of tasks to be completed
+
+![Screenshot 2023-10-26 162704](https://github.com/btoch23/react-todos/assets/143453855/1de46b4b-82a4-425d-84b7-b9bde516c5a1)
+
+## Editing Functionality
+Made a mistake? Easily edit task names or delete tasks you no longer need
+
+![Screenshot 2023-10-27 114211](https://github.com/btoch23/react-todos/assets/143453855/11b30b28-de63-495c-b9f8-4d467f82389e)
+
+## List Filtering
+Use the buttons in the bottom right to filter your list and show you only the relevant tasks
+
+![Screenshot 2023-10-26 162756](https://github.com/btoch23/react-todos/assets/143453855/550d382f-e9c8-4a8d-aed2-88c851cfc9bd)
+![Screenshot 2023-10-26 162810](https://github.com/btoch23/react-todos/assets/143453855/d0f75679-802c-4949-9a30-fe09a6b2af39)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
