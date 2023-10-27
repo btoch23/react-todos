@@ -1,5 +1,5 @@
 # React ToDo List
-A simple webapp for creating an interactive list of tasks to be completed
+A simple web app for creating an interactive list of tasks to be completed
 
 ![Screenshot 2023-10-26 162704](https://github.com/btoch23/react-todos/assets/143453855/1de46b4b-82a4-425d-84b7-b9bde516c5a1)
 
