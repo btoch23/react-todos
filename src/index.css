@@ -112,14 +112,23 @@ a:hover {
 .btn.toggle-btn {
   border-width: 1px;
   border-color: #d3d3d3;
+  text-transform: lowercase;
 }
 .btn.toggle-btn[aria-pressed="true"] {
   border-color: #eb5e28;
 }
+.btn.toggle-btn:hover {
+  background-color: #eb5e28;
+  color: #fff;
+}
 .btn__danger {
   color: #fff;
   background-color: #eb5e28;
-  border-color: #c85325;
+  border-color: #eb5e28;
+}
+.btn__danger:hover {
+  background-color: #ef8257;
+  border-color: #ef8257;
 }
 .btn__filter {
   border-color: lightgrey;
@@ -127,6 +136,11 @@ a:hover {
 .btn__primary {
   color: #fff;
   background-color: #252422;
+  border-color: #252422;
+}
+.btn__primary:hover {
+  background-color: #4d4d4d;
+  border-color: #4d4d4d;
 }
 .btn-group {
   display: flex;

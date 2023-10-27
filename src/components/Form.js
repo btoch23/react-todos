@@ -17,7 +17,7 @@ const Form = (props) => {
         <form onSubmit={handleSubmit}>
         <h2 className="label-wrapper">
           <label htmlFor="new-todo-input" className="label__lg">
-            what's on the docket?
+            what's on the docket for today?
           </label>
         </h2>
         <input
