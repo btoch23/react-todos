@@ -78,7 +78,6 @@ function App(props) {
       <div className="todoapp stack-large">
         <Form addTask={addTask} />
         <ul
-          role="list"
           className="todo-list stack-large stack-exception"
           aria-labelledby="list-heading">
           {taskList}
